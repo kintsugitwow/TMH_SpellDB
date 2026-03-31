@@ -79,6 +79,16 @@ Inflicts 500 Nature damage to nearby enemies every 1 sec. for 10 sec.<br>
 [spell_nature_naturetouchdecay]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_naturetouchdecay.jpg
 
 
+
+<br>
+
+## Twisted Rumbler (Elemental)
+
+### Attack (6603)
+**School:** Physical (0)<br>
+
+
+
 <br>
 
 ## Vile Skitterer (Unknown)

@@ -1,4 +1,4 @@
-# ![boss] Archdruid Kronn (Humanoid)
+# ![boss] Archdruid Kronn (Humanoid) (0xF13000F5DA2796C1)
 
 [boss]: https://static.wikia.nocookie.net/wowwiki/images/f/f4/UI-Skull-32x32.png
 
@@ -86,7 +86,7 @@ Instant<br>
 
 
 
-# ![boss] Dreamform of Kronn (Humanoid)
+# ![boss] Dreamform of Kronn (Humanoid) (dynamic GUID)
 
 [boss]: https://static.wikia.nocookie.net/wowwiki/images/f/f4/UI-Skull-32x32.png
 

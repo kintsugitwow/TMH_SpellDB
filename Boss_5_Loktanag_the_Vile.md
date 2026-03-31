@@ -1,4 +1,4 @@
-# ![boss] Loktanag the Vile (Elemental)
+# ![boss] Loktanag the Vile (Elemental) (0xF13000085B279753)
 
 [boss]: https://static.wikia.nocookie.net/wowwiki/images/f/f4/UI-Skull-32x32.png
 

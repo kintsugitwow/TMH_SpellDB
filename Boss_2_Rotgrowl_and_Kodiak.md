@@ -1,4 +1,4 @@
-# ![boss] Rotgrowl (Humanoid)
+# ![boss] Rotgrowl (Humanoid) (0xF13000F5D8279798)
 
 [boss]: https://static.wikia.nocookie.net/wowwiki/images/f/f4/UI-Skull-32x32.png
 
@@ -96,7 +96,7 @@ Inflict 1 Fire damage to an enemy and any of its nearby allies. Damage is split 
 
 <br>
 
-# ![boss] Kodiak (Beast)
+# ![boss] Kodiak (Beast) (0xF13000F5D927A7CE)
 
 [boss]: https://static.wikia.nocookie.net/wowwiki/images/f/f4/UI-Skull-32x32.png
 

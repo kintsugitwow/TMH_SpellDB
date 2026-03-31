@@ -1,4 +1,4 @@
-# ![boss] Ormanos the Cracked (Giant)
+# ![boss] Ormanos the Cracked (Giant) (0xF13000F5D72794D4)
 
 [boss]: https://static.wikia.nocookie.net/wowwiki/images/f/f4/UI-Skull-32x32.png
 
