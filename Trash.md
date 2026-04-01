@@ -1,25 +1,3 @@
-## Enraged Withermaw (Humanoid)
-
-### Attack (6603)
-**School:** Physical (0)<br>
-
-
-### ![spell_shadow_unholyfrenzy] Enrage (33454)
-**School:** Physical (0)<br>
-**Dispel type:** None (0)<br>
-**Max range:** 0<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_unholyfrenzy.jpg">Spell_Shadow_UnholyFrenzy</a><br>
-**Tooltip:**<br>
-Enrage<br>
-Instant<br>
-Increases the caster's attack speed by 60% and the Physical damage it deals by 50 for 2 min.<br>
-
-[spell_shadow_unholyfrenzy]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_unholyfrenzy.jpg
-
-
-
-<br>
-
 ## Corruption of Loktanag (Elemental)
 
 ### Attack (6603)
@@ -57,10 +35,33 @@ Instant<br>
 
 <br>
 
+## Enraged Withermaw (Humanoid)
+
+### Attack (6603)
+**School:** Physical (0)<br>
+
+
+### ![spell_shadow_unholyfrenzy] Enrage (33454)
+**School:** Physical (0)<br>
+**Dispel type:** None (0)<br>
+**Max range:** 0<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_unholyfrenzy.jpg">Spell_Shadow_UnholyFrenzy</a><br>
+**Tooltip:**<br>
+Enrage<br>
+Instant<br>
+Increases the caster's attack speed by 60% and the Physical damage it deals by 50 for 2 min.<br>
+
+[spell_shadow_unholyfrenzy]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_unholyfrenzy.jpg
+
+
+
+<br>
+
 ## Son of Ursol (Beast)
 
 ### Attack (6603)
 **School:** Physical (0)<br>
+
 
 
 <br>
