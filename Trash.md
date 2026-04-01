@@ -8,13 +8,51 @@
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 0<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_unholyfrenzy.jpg">Spell_Shadow_UnholyFrenzy</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_unholyfrenzy.jpg">Spell_Shadow_UnholyFrenzy</a><br>
 **Tooltip:**<br>
 Enrage<br>
 Instant<br>
 Increases the caster's attack speed by 60% and the Physical damage it deals by 50 for 2 min.<br>
 
 [spell_shadow_unholyfrenzy]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_unholyfrenzy.jpg
+
+
+
+<br>
+
+## Corruption of Loktanag (Elemental)
+
+### Attack (6603)
+**School:** Physical (0)<br>
+
+
+### ![ability_poisonsting] Paralyzing Poison (33467)
+**School:** Physical (0)<br>
+**Dispel type:** Poison (4)<br>
+**Max range:** 100<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_poisonsting.jpg">Ability_PoisonSting</a><br>
+**Tooltip:**<br>
+Paralyzing Poison<br>
+Next melee<br>
+Stuns an enemy, rendering it unable to move or attack for 8 sec.<br>
+**Debuff tooltip (1):** Stunned.<br>
+
+[ability_poisonsting]: https://wow.zamimg.com/images/wow/icons/small/ability_poisonsting.jpg
+
+
+### ![spell_shadow_creepingplague] Black Boils (52793)
+**School:** Nature (3)<br>
+**Dispel type:** Disease (3)<br>
+**Max range:** 40<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_creepingplague.jpg">Spell_Shadow_CreepingPlague</a><br>
+**Tooltip:**<br>
+Black Boils<br>
+40 yd range<br>
+Instant<br>
+**Debuff tooltip (1):** Dark, swelling boils cover the skin and fester with mold.<br>
+
+[spell_shadow_creepingplague]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_creepingplague.jpg
+
 
 
 <br>
@@ -37,7 +75,7 @@ Increases the caster's attack speed by 60% and the Physical damage it deals by 5
 **School:** Nature (3)<br>
 **Dispel type:** Poison (4)<br>
 **Max range:** 30<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_corrosivebreath.jpg">Spell_Nature_CorrosiveBreath</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_corrosivebreath.jpg">Spell_Nature_CorrosiveBreath</a><br>
 **Tooltip:**<br>
 Corrosive Poison<br>
 30 yd range<br>
@@ -52,7 +90,7 @@ Reduces an enemy's armor by 5000 and inflicts 657 to 843 Nature damage every 5 s
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 5<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_acid_01.jpg">Spell_Nature_Acid_01</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_acid_01.jpg">Spell_Nature_Acid_01</a><br>
 **Tooltip:**<br>
 Acid Breath<br>
 5 yd range<br>
@@ -68,7 +106,7 @@ Inflicts 150 Nature damage and an additional 875 to 1125 damage every 0 sec. to 
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 45<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_naturetouchdecay.jpg">Spell_Nature_NatureTouchDecay</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_naturetouchdecay.jpg">Spell_Nature_NatureTouchDecay</a><br>
 **Tooltip:**<br>
 Poison Cloud<br>
 1226 Mana<br>
@@ -110,7 +148,7 @@ Inflicts 500 Nature damage to nearby enemies every 1 sec. for 10 sec.<br>
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 40<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_creepingplague.jpg">Spell_Shadow_CreepingPlague</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_creepingplague.jpg">Spell_Shadow_CreepingPlague</a><br>
 **Tooltip:**<br>
 Withered Defiling<br>
 3180 Mana<br>
@@ -124,7 +162,7 @@ Withered Defiling<br>
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 45<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_naturetouchdecay.jpg">Spell_Nature_NatureTouchDecay</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_naturetouchdecay.jpg">Spell_Nature_NatureTouchDecay</a><br>
 **Tooltip:**<br>
 Poison Cloud<br>
 1226 Mana<br>
@@ -147,7 +185,7 @@ Inflicts 500 Nature damage to nearby enemies every 1 sec. for 10 sec.<br>
 **School:** Shadow (5)<br>
 **Dispel type:** Curse (2)<br>
 **Max range:** 0<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_drowsy.jpg">Spell_Nature_Drowsy</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_drowsy.jpg">Spell_Nature_Drowsy</a><br>
 **Tooltip:**<br>
 Curse of the Withermaw<br>
 7232 Mana<br>
@@ -169,7 +207,7 @@ Curse of the Withermaw<br>
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 30<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_lightning.jpg">Spell_Nature_Lightning</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_lightning.jpg">Spell_Nature_Lightning</a><br>
 **Tooltip:**<br>
 Lightning Bolt<br>
 210 Mana<br>
@@ -190,7 +228,7 @@ Casts a bolt of lightning at the target for 347 to 389 Nature damage.<br>
 **School:** Fire (2)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 0<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_fire_incinerate.jpg">Spell_Fire_Incinerate</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_incinerate.jpg">Spell_Fire_Incinerate</a><br>
 **Tooltip:**<br>
 Cauterizing Illumination<br>
 3 sec cast<br>
@@ -203,7 +241,7 @@ Cauterizing Illumination<br>
 **School:** Nature (3)<br>
 **Dispel type:** Poison (4)<br>
 **Max range:** 5<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/inv_misc_herb_16.jpg">INV_Misc_Herb_16</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_misc_herb_16.jpg">INV_Misc_Herb_16</a><br>
 **Tooltip:**<br>
 Direroot Poison<br>
 5 yd range<br>
@@ -225,7 +263,7 @@ Instant<br>
 **School:** Nature (3)<br>
 **Dispel type:** Magic (1)<br>
 **Max range:** 43<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_skinofearth.jpg">Spell_Nature_SkinofEarth</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_skinofearth.jpg">Spell_Nature_SkinofEarth</a><br>
 **Tooltip:**<br>
 Withermaw Blessing<br>
 4967 Mana<br>
@@ -246,7 +284,7 @@ Withermaw Blessing<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3.609375<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_bullrush.jpg">Ability_BullRush</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_bullrush.jpg">Ability_BullRush</a><br>
 **Tooltip:**<br>
 War Stomp<br>
 Instant<br>
@@ -268,7 +306,7 @@ Knocks nearby enemies back.<br>
 **School:** Nature (3)<br>
 **Dispel type:** Poison (4)<br>
 **Max range:** 35<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_hunter_quickshot.jpg">Ability_Hunter_Quickshot</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_hunter_quickshot.jpg">Ability_Hunter_Quickshot</a><br>
 **Tooltip:**<br>
 Serpent Sting<br>
 165 Mana<br>
@@ -284,7 +322,7 @@ Stings the target, causing 555 Nature damage over 15 sec.  Only one Sting per Hu
 **School:** Arcane (6)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 30<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_upgrademoonglaive.jpg">Ability_UpgradeMoonGlaive</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_upgrademoonglaive.jpg">Ability_UpgradeMoonGlaive</a><br>
 **Tooltip:**<br>
 Multi-Shot<br>
 30 yd range<br>
@@ -299,7 +337,7 @@ Fires a volley of missiles at an enemy and its nearby allies, striking up to 10 
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 33.609375<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_ensnare.jpg">Ability_Ensnare</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_ensnare.jpg">Ability_Ensnare</a><br>
 **Tooltip:**<br>
 Hooked Net<br>
 30 yd range<br>
@@ -314,7 +352,7 @@ Immobilizes nearby enemies for 10 sec. and inflicts Physical damage.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 30<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_marksmanship.jpg">Ability_Marksmanship</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_marksmanship.jpg">Ability_Marksmanship</a><br>
 **Tooltip:**<br>
 Timbermaw Shoot<br>
 5-30 yd range<br>
@@ -337,7 +375,7 @@ Shoots at an enemy, inflicting Physical damage.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_unholyfrenzy.jpg">Spell_Shadow_UnholyFrenzy</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_unholyfrenzy.jpg">Spell_Shadow_UnholyFrenzy</a><br>
 **Tooltip:**<br>
 Enrage<br>
 Instant<br>
@@ -350,7 +388,7 @@ Increases the caster's attack speed by 60% and the Physical damage it deals by 5
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 43<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_warrior_charge.jpg">Ability_Warrior_Charge</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_warrior_charge.jpg">Ability_Warrior_Charge</a><br>
 **Tooltip:**<br>
 Surge<br>
 40 yd range<br>
@@ -364,7 +402,7 @@ Charges an enemy, inflicting 1000 damage to the target and any of its nearby all
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 0<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_thorns.jpg">Spell_Nature_Thorns</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_thorns.jpg">Spell_Nature_Thorns</a><br>
 **Tooltip:**<br>
 Gnarlhide<br>
 
@@ -383,7 +421,7 @@ Gnarlhide<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 5<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_gouge.jpg">Ability_Gouge</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_gouge.jpg">Ability_Gouge</a><br>
 **Tooltip:**<br>
 Vicious Rend<br>
 5 yd range<br>
@@ -398,7 +436,7 @@ Inflicts Physical damage to an enemy every 3 sec. for 15 sec.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 0<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_druid_demoralizingroar.jpg">Ability_Druid_DemoralizingRoar</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_druid_demoralizingroar.jpg">Ability_Druid_DemoralizingRoar</a><br>
 **Tooltip:**<br>
 Demoralizing Roar<br>
 Instant<br>

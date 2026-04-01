@@ -11,7 +11,7 @@
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 13.609375<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_thunderbolt.jpg">Ability_ThunderBolt</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_thunderbolt.jpg">Ability_ThunderBolt</a><br>
 **Tooltip:**<br>
 Erosion<br>
 10 yd range<br>
@@ -26,7 +26,7 @@ A brutal strike that stuns the opponent for 3 sec and increases all damage taken
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 103.609375<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_earthquake.jpg">Spell_Nature_Earthquake</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_earthquake.jpg">Spell_Nature_Earthquake</a><br>
 **Tooltip:**<br>
 Crush Earth<br>
 100 yd range<br>
@@ -40,7 +40,7 @@ Crushes the earth, impacting all enemies within the area for 800 Nature damage a
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_frost_frostshock.jpg">Spell_Frost_FrostShock</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostshock.jpg">Spell_Frost_FrostShock</a><br>
 **Tooltip:**<br>
 Spawn Tremor of Ormanos<br>
 Instant<br>
@@ -52,7 +52,7 @@ Instant<br>
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 50003<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_earthshock.jpg">Spell_Nature_EarthShock</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_earthshock.jpg">Spell_Nature_EarthShock</a><br>
 **Tooltip:**<br>
 Rampaging Earth<br>
 50000 yd range<br>
@@ -66,7 +66,7 @@ Deals damage dependent on the distance Ormanos charged and knocks the target bac
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 50003.609375<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_chainlightning.jpg">Spell_Nature_ChainLightning</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_chainlightning.jpg">Spell_Nature_ChainLightning</a><br>
 **Tooltip:**<br>
 Rampaging Earth<br>
 50000 yd range<br>
@@ -80,7 +80,7 @@ Ormanos prepares to charge towards the enemy.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 50003<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_warrior_charge.jpg">Ability_Warrior_Charge</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_warrior_charge.jpg">Ability_Warrior_Charge</a><br>
 **Tooltip:**<br>
 Rampaging Earth<br>
 50000 yd range<br>
@@ -94,7 +94,7 @@ Charge an enemy.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/inv_stone_15.jpg">INV_Stone_15</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_stone_15.jpg">INV_Stone_15</a><br>
 **Tooltip:**<br>
 Attunement of Granite<br>
 Instant<br>
@@ -108,7 +108,7 @@ Immune to Frost damage. Increases Nature damage taken by 100%.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/inv_stone_15.jpg">INV_Stone_15</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_stone_15.jpg">INV_Stone_15</a><br>
 **Tooltip:**<br>
 Attunement of Slate<br>
 Instant<br>
@@ -122,7 +122,7 @@ Immune to Fire damage. Increases Arcane damage taken by 100%.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 0<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/inv_stone_15.jpg">INV_Stone_15</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_stone_15.jpg">INV_Stone_15</a><br>
 **Tooltip:**<br>
 Attunement of Basalt<br>
 Instant<br>
@@ -136,7 +136,7 @@ Immune to Shadow damage. Increases Fire damage taken by 100%.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/inv_stone_15.jpg">INV_Stone_15</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_stone_15.jpg">INV_Stone_15</a><br>
 **Tooltip:**<br>
 Attunement of Quartz<br>
 Instant<br>
@@ -150,7 +150,7 @@ Immune to Nature damage. Increases Shadow damage taken by 100%.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/inv_stone_15.jpg">INV_Stone_15</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_stone_15.jpg">INV_Stone_15</a><br>
 **Tooltip:**<br>
 Attunement of Marble<br>
 Instant<br>
@@ -164,7 +164,7 @@ Immune to Arcane damage. Increases Frost damage taken by 100%.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_holy_resurrection.jpg">Spell_Holy_Resurrection</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_holy_resurrection.jpg">Spell_Holy_Resurrection</a><br>
 **Tooltip:**<br>
 Attune to Earth<br>
 1.96 sec cast<br>
@@ -177,7 +177,7 @@ Chooses a random Attunement.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 103<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_throw.jpg">Ability_Throw</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_throw.jpg">Ability_Throw</a><br>
 **Tooltip:**<br>
 Throw Rock<br>
 100 yd range<br>
@@ -207,7 +207,7 @@ Hurls boulders at nearby enemies, inflicting Physical damage and stunning target
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_frost_stun.jpg">Spell_Frost_Stun</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_stun.jpg">Spell_Frost_Stun</a><br>
 **Tooltip:**<br>
 Crash Landing<br>
 Instant<br>
@@ -224,7 +224,7 @@ Instant<br>
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 5.6666669845581<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/inv_stone_14.jpg">INV_Stone_14</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_stone_14.jpg">INV_Stone_14</a><br>
 **Tooltip:**<br>
 Tremors of Ormanos<br>
 Channeled<br>

@@ -11,7 +11,7 @@
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 13<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_warrior_cleave.jpg">Ability_Warrior_Cleave</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_warrior_cleave.jpg">Ability_Warrior_Cleave</a><br>
 **Tooltip:**<br>
 Coordinated Strike<br>
 10 yd range<br>
@@ -25,7 +25,7 @@ Deals 2250 to 2700 Physical damage to the target.<br>
 **School:** Fire (2)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_fire_incinerate.jpg">Spell_Fire_Incinerate</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_incinerate.jpg">Spell_Fire_Incinerate</a><br>
 **Tooltip:**<br>
 Flame Spew<br>
 3.92 sec cast<br>
@@ -38,7 +38,7 @@ Casts 34714 in front and to the sides.<br>
 **School:** Fire (2)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_fire_incinerate.jpg">Spell_Fire_Incinerate</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_incinerate.jpg">Spell_Fire_Incinerate</a><br>
 **Tooltip:**<br>
 Flame Spew<br>
 3.92 sec cast<br>
@@ -51,7 +51,7 @@ Casts 34714 in front and in the back.<br>
 **School:** Fire (2)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 53<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_fire_incinerate.jpg">Spell_Fire_Incinerate</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_incinerate.jpg">Spell_Fire_Incinerate</a><br>
 **Tooltip:**<br>
 Flame Spew<br>
 50 yd range<br>
@@ -64,7 +64,7 @@ Instant<br>
 **School:** Fire (2)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 103<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_creature_poison_05.jpg">Ability_Creature_Poison_05</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_creature_poison_05.jpg">Ability_Creature_Poison_05</a><br>
 **Tooltip:**<br>
 Flame Spit<br>
 100 yd range<br>
@@ -87,7 +87,7 @@ Deals 1500 to 1800 Fire damage and increases Fire damage taken by 10%.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_blackplague.jpg">Spell_Shadow_BlackPlague</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_blackplague.jpg">Spell_Shadow_BlackPlague</a><br>
 **Tooltip:**<br>
 Oozing Expulsion<br>
 2.45 sec cast<br>
@@ -99,7 +99,7 @@ Oozing Expulsion<br>
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 50003<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/.jpg"></a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/.jpg"></a><br>
 **Tooltip:**<br>
 Corrosive Spit<br>
 50000 yd range<br>
@@ -111,7 +111,7 @@ Deals 1500 to 1800 Nature damage and increases Nature damage taken by 10%.<br>
 **School:** Frost (4)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 103<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_frost_frostblast.jpg">Spell_Frost_FrostBlast</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostblast.jpg">Spell_Frost_FrostBlast</a><br>
 **Tooltip:**<br>
 Icicle Crash<br>
 100 yd range<br>
@@ -125,7 +125,7 @@ Inflicts 2250 to 2700 Frost damage in a 100 yard radius.<br>
 **School:** Frost (4)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 50003<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_frost_frostbolt02.jpg">Spell_Frost_FrostBolt02</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostbolt02.jpg">Spell_Frost_FrostBolt02</a><br>
 **Tooltip:**<br>
 Frozen Spit<br>
 50000 yd range<br>
@@ -149,7 +149,7 @@ Deals 1500 to 1800 Frost damage and increases Nature damage taken by 10%.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_fire_fire.jpg">Spell_Fire_Fire</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_fire.jpg">Spell_Fire_Fire</a><br>
 **Tooltip:**<br>
 Searing Surge<br>
 Instant<br>
@@ -162,7 +162,7 @@ Instant<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_acid_01.jpg">Spell_Nature_Acid_01</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_acid_01.jpg">Spell_Nature_Acid_01</a><br>
 **Tooltip:**<br>
 Acidic Annihilation<br>
 Instant<br>
@@ -175,7 +175,7 @@ Instant<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_frost_frost.jpg">Spell_Frost_Frost</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_frost.jpg">Spell_Frost_Frost</a><br>
 **Tooltip:**<br>
 Biting Blizzard<br>
 Instant<br>
@@ -188,7 +188,7 @@ Instant<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 0<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_druid_enrage.jpg">Ability_Druid_Enrage</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_druid_enrage.jpg">Ability_Druid_Enrage</a><br>
 **Tooltip:**<br>
 Elemental Onslaught<br>
 Instant<br>
@@ -216,7 +216,7 @@ Instant<br>
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_abolishmagic.jpg">Spell_Nature_AbolishMagic</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_abolishmagic.jpg">Spell_Nature_AbolishMagic</a><br>
 **Tooltip:**<br>
 Noxious Cloud<br>
 Instant<br>
@@ -228,7 +228,7 @@ Instant<br>
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 5<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_acid_01.jpg">Spell_Nature_Acid_01</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_acid_01.jpg">Spell_Nature_Acid_01</a><br>
 **Tooltip:**<br>
 Poison Shock<br>
 5 yd range<br>

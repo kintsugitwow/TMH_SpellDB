@@ -11,7 +11,7 @@
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 103<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_druid_maul.jpg">Ability_Druid_Maul</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_druid_maul.jpg">Ability_Druid_Maul</a><br>
 **Tooltip:**<br>
 Crushing Maul<br>
 100 yd range<br>
@@ -25,7 +25,7 @@ Inflicts 18000 damage on an enemy, knocking it back.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_druid_demoralizingroar.jpg">Ability_Druid_DemoralizingRoar</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_druid_demoralizingroar.jpg">Ability_Druid_DemoralizingRoar</a><br>
 **Tooltip:**<br>
 Furious Roar<br>
 Instant<br>
@@ -38,7 +38,7 @@ Deals 1200 Physical damage in a 100 yard radius.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 100<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_thunderclap.jpg">Spell_Nature_ThunderClap</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_thunderclap.jpg">Spell_Nature_ThunderClap</a><br>
 **Tooltip:**<br>
 Stomp<br>
 100 yd range<br>
@@ -52,7 +52,7 @@ Stomps all Timbermaw Defenders and Sentinels.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_demonicpact.jpg">Spell_Shadow_DemonicPact</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_demonicpact.jpg">Spell_Shadow_DemonicPact</a><br>
 **Tooltip:**<br>
 Demon Within<br>
 Instant<br>
@@ -84,7 +84,7 @@ Instant<br>
 **School:** Shadow (5)<br>
 **Dispel type:** Magic (1)<br>
 **Max range:** 50000<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_warlock_shadowflame.jpg">ability_warlock_shadowflame</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_warlock_shadowflame.jpg">ability_warlock_shadowflame</a><br>
 **Tooltip:**<br>
 Seed of Corruption<br>
 50000 yd range<br>
@@ -99,7 +99,7 @@ Increases damage done by 100% but deals 4250 damage to nearby allies upon remova
 **School:** Shadow (5)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 2.5125000476837<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_thunderclap.jpg">Spell_Nature_ThunderClap</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_thunderclap.jpg">Spell_Nature_ThunderClap</a><br>
 **Tooltip:**<br>
 Fel Stomp<br>
 3 sec cast<br>
@@ -112,7 +112,7 @@ Blasts nearby enemies for 1500 Shadow damage and knocks them back.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_rogue_slicedice.jpg">Ability_Rogue_SliceDice</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_rogue_slicedice.jpg">Ability_Rogue_SliceDice</a><br>
 **Tooltip:**<br>
 Sweep<br>
 Instant<br>
@@ -126,7 +126,7 @@ Causes the caster's melee attacks to cleave nearby targets.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 103<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_rogue_slicedice.jpg">Ability_Rogue_SliceDice</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_rogue_slicedice.jpg">Ability_Rogue_SliceDice</a><br>
 **Tooltip:**<br>
 Sweep<br>
 100 yd range<br>

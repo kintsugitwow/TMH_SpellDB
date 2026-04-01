@@ -11,7 +11,7 @@
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 100<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_insectswarm.jpg">Spell_Nature_InsectSwarm</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_insectswarm.jpg">Spell_Nature_InsectSwarm</a><br>
 **Tooltip:**<br>
 Intruder of the Dream<br>
 100 yd range<br>
@@ -34,7 +34,7 @@ Instant<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 40<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
 **Tooltip:**<br>
 Thorn Burst<br>
 40 yd range<br>
@@ -48,7 +48,7 @@ Sends a burst of thorns at the enemy, causing 6000 Physical damage.<br>
 **School:** Shadow (5)<br>
 **Dispel type:** Magic (1)<br>
 **Max range:** 100<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_sleep.jpg">Spell_Nature_Sleep</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_sleep.jpg">Spell_Nature_Sleep</a><br>
 **Tooltip:**<br>
 Lucid Nightmare<br>
 100 yd range<br>
@@ -63,7 +63,7 @@ Puts the target to sleep and causes it to take 3000 Shadow damage over 18 sec.<b
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 0<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_nature_thunderclap.jpg">Spell_Nature_ThunderClap</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_thunderclap.jpg">Spell_Nature_ThunderClap</a><br>
 **Tooltip:**<br>
 Nightmare Burst<br>
 3 sec cast<br>
@@ -76,7 +76,7 @@ Deals 1500 damage to nearby enemies, knocks them back and clears their threat.<b
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/racial_troll_berserk.jpg">Racial_Troll_Berserk</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/racial_troll_berserk.jpg">Racial_Troll_Berserk</a><br>
 **Tooltip:**<br>
 Restored Strength<br>
 Instant<br>
@@ -99,7 +99,7 @@ Instant<br>
 **School:** Holy (1)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 50003<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_holy_flashheal.jpg">Spell_Holy_FlashHeal</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_holy_flashheal.jpg">Spell_Holy_FlashHeal</a><br>
 **Tooltip:**<br>
 Return to Body<br>
 50000 yd range<br>
@@ -129,7 +129,7 @@ Archdruid Kronn returns to his body.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 7.6666669845581<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_warrior_savageblow.jpg">Ability_Warrior_SavageBlow</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_warrior_savageblow.jpg">Ability_Warrior_SavageBlow</a><br>
 **Tooltip:**<br>
 Satyr Strike<br>
 5 yd range<br>
@@ -144,7 +144,7 @@ A vicious strike that deals 50 damage and wounds the target, reducing the effect
 **School:** Holy (1)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 50003<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_holy_flashheal.jpg">Spell_Holy_FlashHeal</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_holy_flashheal.jpg">Spell_Holy_FlashHeal</a><br>
 **Tooltip:**<br>
 Ultimate Sacrifice<br>
 50000 yd range<br>
@@ -166,7 +166,7 @@ Sacrifice yourself to heal Archdruid Kronn.<br>
 **School:** Shadow (5)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 20<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_siphonmana.jpg">Spell_Shadow_SiphonMana</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_siphonmana.jpg">Spell_Shadow_SiphonMana</a><br>
 **Tooltip:**<br>
 Sap Strength<br>
 20 yd range<br>
@@ -181,7 +181,7 @@ Assault the target's mind with Shadow energy, causing 50000 Shadow damage over 1
 **School:** Nature (3)<br>
 **Dispel type:** Disease (3)<br>
 **Max range:** 5<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_plaguecloud.jpg">Spell_Shadow_PlagueCloud</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_plaguecloud.jpg">Spell_Shadow_PlagueCloud</a><br>
 **Tooltip:**<br>
 Dream Fever<br>
 5 yd range<br>
@@ -200,7 +200,7 @@ Reduces damage done by 50% and inflicts 10000 damage over 1 min<br>
 **School:** Shadow (5)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 0<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_unholystrength.jpg">Spell_Shadow_UnholyStrength</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_unholystrength.jpg">Spell_Shadow_UnholyStrength</a><br>
 **Tooltip:**<br>
 Miasma<br>
 Instant<br>
@@ -216,7 +216,7 @@ Instant<br>
 **School:** Shadow (5)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 40<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
 **Tooltip:**<br>
 Decaying Miasma<br>
 40 yd range<br>

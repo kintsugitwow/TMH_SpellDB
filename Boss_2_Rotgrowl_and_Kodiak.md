@@ -11,7 +11,7 @@
 **School:** Holy (1)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 105.55000305176<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_hunter_beastsoothe.jpg">Ability_Hunter_BeastSoothe</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_hunter_beastsoothe.jpg">Ability_Hunter_BeastSoothe</a><br>
 **Tooltip:**<br>
 Revive Pet<br>
 100 yd range<br>
@@ -25,7 +25,7 @@ Brings a dead creature back to life with 100% of their health and mana.<br>
 **School:** Fire (2)<br>
 **Dispel type:** Magic (1)<br>
 **Max range:** 103<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_fire_immolation.jpg">Spell_Fire_Immolation</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_immolation.jpg">Spell_Fire_Immolation</a><br>
 **Tooltip:**<br>
 Untamed Fire<br>
 100 yd range<br>
@@ -40,7 +40,7 @@ Burns an enemy, then inflicts additional Fire damage every 1 sec. for 12 sec.<br
 **School:** Fire (2)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 50003<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_fire_fireball02.jpg">Spell_Fire_Fireball02</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_fireball02.jpg">Spell_Fire_Fireball02</a><br>
 **Tooltip:**<br>
 Fire-Soaked Arrow<br>
 50000 yd range<br>
@@ -54,7 +54,7 @@ Inflict 12000 Fire damage to an enemy and any of its nearby allies. Damage is sp
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 50003.609375<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_marksmanship.jpg">Ability_Marksmanship</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_marksmanship.jpg">Ability_Marksmanship</a><br>
 **Tooltip:**<br>
 Volley of Arrows<br>
 50000 yd range<br>
@@ -68,7 +68,7 @@ Continuously fires a volley of ammo at the target area, causing 500 Physical dam
 **School:** Nature (3)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 103<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_hunter_snipershot.jpg">Ability_Hunter_SniperShot</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_hunter_snipershot.jpg">Ability_Hunter_SniperShot</a><br>
 **Tooltip:**<br>
 Hunter's Mark<br>
 100 yd range<br>
@@ -83,7 +83,7 @@ Places the Hunter's Mark on the target, increasing the Ranged Attack Power of al
 **School:** Fire (2)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 50003<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_fire_fireball02.jpg">Spell_Fire_Fireball02</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_fireball02.jpg">Spell_Fire_Fireball02</a><br>
 **Tooltip:**<br>
 Fire-Soaked Arrow<br>
 50000 yd range<br>
@@ -109,7 +109,7 @@ Inflict 1 Fire damage to an enemy and any of its nearby allies. Damage is split 
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 5<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/ability_gouge.jpg">Ability_Gouge</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_gouge.jpg">Ability_Gouge</a><br>
 **Tooltip:**<br>
 Lacerate<br>
 5 yd range<br>
@@ -124,7 +124,7 @@ Wounds the target causing them to bleed for 5000 damage over 30 sec.<br>
 **School:** Physical (0)<br>
 **Dispel type:** None (0)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_psychicscream.jpg">Spell_Shadow_PsychicScream</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_psychicscream.jpg">Spell_Shadow_PsychicScream</a><br>
 **Tooltip:**<br>
 Fearful Roar<br>
 3.92 sec cast<br>
@@ -138,7 +138,7 @@ Lets out a deep roar, causing nearby enemies to flee for 8 sec.<br>
 **School:** Physical (0)<br>
 **Dispel type:** Enrage (9)<br>
 **Max range:** 3<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/icons/large/spell_shadow_unholyfrenzy.jpg">Spell_Shadow_UnholyFrenzy</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_unholyfrenzy.jpg">Spell_Shadow_UnholyFrenzy</a><br>
 **Tooltip:**<br>
 Rage of the Ursa<br>
 Instant<br>
