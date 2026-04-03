@@ -1,1 +1,1 @@
-Timbermaw Hold spell database based only on data collected in &lt;Moments&gt; (G3) raids.
+Timbermaw Hold spell database based on data collected in &lt;Moments&gt; raids.
