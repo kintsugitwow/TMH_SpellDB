@@ -2,6 +2,7 @@
 
 [boss]: https://static.wikia.nocookie.net/wowwiki/images/f/f4/UI-Skull-32x32.png
 
+
 ### Attack (6603)
 **School:** Physical (0)<br>
 
