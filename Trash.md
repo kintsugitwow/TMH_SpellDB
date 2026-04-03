@@ -4,8 +4,6 @@
 **School:** Physical (0)<br>
 
 
-<br>
-
 ### ![ability_poisonsting] Paralyzing Poison (33467)
 **School:** Physical (0)<br>
 **Dispel type:** Poison (4)<br>
@@ -19,8 +17,6 @@ Stuns an enemy, rendering it unable to move or attack for 8 sec.<br>
 
 [ability_poisonsting]: https://wow.zamimg.com/images/wow/icons/small/ability_poisonsting.jpg
 
-
-<br>
 
 ### ![spell_shadow_creepingplague] Black Boils (52793)
 **School:** Nature (3)<br>
