@@ -1,4 +1,4 @@
-## Chieftain Partath (Humanoid)
+## Chieftain Partath (Humanoid) (0xF13000F5DD2796C0)
 
 ### Attack (6603)
 **School:** Physical (0)<br>

@@ -1,4 +1,4 @@
-# ![boss] Selenaxx Foulheart (Demon)
+# ![boss] Selenaxx Foulheart (Demon) (0xF13000F5DC279589)
 
 [boss]: https://static.wikia.nocookie.net/wowwiki/images/f/f4/UI-Skull-32x32.png
 
